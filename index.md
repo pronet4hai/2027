@@ -1,6 +1,6 @@
 ![SCA 2027 Logo](/assets/sca-logo-1.png)
 
-# 30th International Workshop on High-Level Parallel Programming Models and Supportive Environments
+# First Workshop on Open, Programmable, and Emerging Networking Technologies for HPC and AI (OPENET4HAI)
 
 # Overview
 TBA
