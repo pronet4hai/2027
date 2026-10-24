@@ -50,11 +50,11 @@ TBA
 
 # Important Deadlines
 
-Paper Submission Due: TBA
+Paper Submission Due: 8 December 2026 (AoE)
 
-Notice of Paper Acceptance: TBA
+Notice of Paper Acceptance: 22 December 2026 (AoE)
 
-Camera-ready Paper Due: TBA
+Camera-ready Paper Due: 8 January 2027 (AoE)
 ---
 ---
 
