@@ -78,13 +78,13 @@ We will follow the SCA's workshop timeline as well as peer-review practices to p
 - Richard Vuduc,  Georgia Tech, USA (richie@cc.gatech.edu)
 
 ## Program Committee
-Dominik, Huber, TU Munich
-Josef Weidendorfer, TU Dresden
-Norbert, Eicker, Bergische Universität Wuppertal
-Ioannis, Vardas, Eviden
-Simon, Pickartz, ParTec
-Amir, Raoofy, Leibniz Supercomputing Centre
-Majid, Salimi Beni, TU Wien
+- Dominik, Huber, TU Munich
+- Josef Weidendorfer, TU Dresden
+- Norbert, Eicker, Bergische Universität Wuppertal
+- Ioannis, Vardas, Eviden
+- Simon, Pickartz, ParTec
+- Amir, Raoofy, Leibniz Supercomputing Centre
+- Majid, Salimi Beni, TU Wien
 
 ---
 ---
