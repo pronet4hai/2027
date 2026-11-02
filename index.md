@@ -86,6 +86,7 @@ We will follow the SCA's workshop timeline as well as peer-review practices to p
 - Amir, Raoofy, Leibniz Supercomputing Centre
 - Majid, Salimi Beni, TU Wien
 - Minh, Chung, Leibniz Supercomputing Centre
+- Reza, Farahani, TU Wien
 
 ---
 ---
